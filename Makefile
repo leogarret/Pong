@@ -8,7 +8,7 @@
 NAME	=	101pong
 
 all:
-	cp 101pong.py $(NAME)
+	cp pong_game.py $(NAME)
 
 clean:
 	rm -rf $(NAME)
